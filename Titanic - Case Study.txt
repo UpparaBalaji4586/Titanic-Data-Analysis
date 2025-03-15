@@ -1,0 +1,25 @@
+Case Study - Titanic Dataset
+
+Questions
+
+1.Load Dataset into Python?
+2.Display first 6 rows and last 6 rows of the dataset?
+3.Display the shape of the dataset?
+4.Display all column names?
+5.Display the type of each column?
+6.Print the information and summary?
+7.Find Null Values?
+8.Replace Null values with the Median Value?
+9.Drop Unwanted columns?
+10.Count of Survived and display using piechart?
+11.Count of Female passengers travelled in the first class, and display using piechart?
+12.Find out number of male survived with age>40 and display using pie chart?
+13.Find out number of female survived with age<30 and display using pie chart and bar graph?
+14.Show age with 20 bins?
+15.Show age frequency with survived and not survived using histogram?
+16.Show bar graph for male, female and class?
+17.How many passengesr travelled from different classes (bar graph)?
+18.Passengers survived class wise bar chart?
+19.Show q13 and q14 in the Subplot ?
+20.Map the sex column Male=1 and Female=0?
+
